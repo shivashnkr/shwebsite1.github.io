@@ -1,0 +1,311 @@
+﻿body
+{
+    background-color: #DADADA;
+}
+
+
+td
+{
+    font: normal 11px Tahoma, Arial;
+    color: #494949;
+}
+
+h1, h2, h3, h4, h5
+{
+    color: #460a04;
+    margin: 0px;
+}
+
+
+h1
+{
+    font-size: 18px;
+}
+
+h2
+{
+    font-size: 16px;
+}
+
+h3
+{
+    font-size: 14px;
+}
+
+
+a
+{
+    font: normal 11px Tahoma, Arial;
+    color: #414141;
+}
+
+a:hover
+{
+    font: normal 11px Tahoma, Arial;
+    color: #008000;
+    text-decoration: none;
+}
+
+a.white-link-underline
+{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.white-text
+{
+    color: #ffffff;
+    background-color: #7C7D81;
+    background-image: url('../images/backmenu.png');
+}
+.menu-text
+{
+    color: #696969;
+    background-color: #ffffff;
+    font-weight: bold;
+}
+.footer-text
+{
+    color: #808080;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+.banner-text:hover 
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #008000;
+    font-size: 12px;
+    line-height: 15pt;
+    text-align: justify;
+    margin-right: 0px;
+    padding-right: 10px;
+    
+}
+
+.banner-text
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #696969;
+    font-size: 12px;
+    line-height: 15pt;
+    text-align: justify;
+    margin-right: 0px;
+    padding-right: 10px;
+}
+.project-pic
+{
+	width:85%;-moz-border-radius: 25px 10px / 10px 25px;border-radius: 25px 10px / 10px 25px;
+}
+.project-pic:hover 
+{
+	width:95%;
+    background-color: green;-moz-border-radius: 25px 10px / 10px 25px;border-radius: 25px 10px / 10px 25px;
+
+}
+
+.other-text
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #696969;
+    font-size: 12px;
+    line-height: 15pt;
+    text-align: justify;
+}
+.news-text
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    margin-left: 10px;
+    padding-left: 0px;
+    color: #696969;
+    font-size: 12px;
+    line-height: 15pt;
+}
+.heading-text
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #008000;
+    font-weight: bold;
+    font-size: 12px;
+}
+.nonImpHeader-text
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #CA6011;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 10px;
+}
+.blye-text-underline
+{
+    color: #348cbc;
+    text-decoration: underline;
+}
+
+.blye-text-regular
+{
+    color: #348cbc;
+}
+
+.yellow-text-regular
+{
+    color: #db9a00;
+}
+
+.yellow-text-underline
+{
+    color: #db9a00;
+    text-decoration: underline;
+}
+
+.orange-text-regular
+{
+    color: #008000;
+}
+.imageLink
+{
+    color: #FFFFFF;
+}
+.imageLink:hover
+{
+    color: #FFFFFF;
+}
+.orange-text-underline
+{
+    color: #ca6011;
+    text-decoration: underline;
+}
+
+.red-text-regular
+{
+    color: #920f0d;
+}
+
+.red-text-underline
+{
+    color: #920f0d;
+    text-decoration: underline;
+}
+
+
+.gray-text
+{
+    color: #4c4c4c;
+}
+
+.green-text
+{
+    color: #76950b;
+}
+.page-banner
+{
+    height: 190px;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #FFFFFF;
+    background-image: url('../images/pagebanner.png');
+    padding-left: 10px;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+.page-banner-tally
+{
+    height: 190px;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #FFFFFF;
+    background-image: url('../images/TallyERP9HomepageBanner_01_011.jpg');
+    padding-left: 10px;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+.page-header
+{
+    background-image: url('../images/headerback.png');
+    height: 65px;
+    width: 850px;
+}
+.page-footer
+{
+	background-image: url('../images/footerback.png');
+	height: 65px;
+	width:850px
+}
+.page-header-tally
+{
+    background-image: url('../images/headerback-tally.png');
+    height: 65px;
+    width: 850px;
+}
+.contact-info
+{
+    padding-left: 20px;
+    font-size: 11px;
+}
+.subtitle-list
+{
+    list-style-image: url('../images/arrowhead.png');
+}
+
+.subtitle-list a
+{
+    list-style-image: url('../images/arrowhead.png');
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    color: #696969;
+    font-size: 12px;
+    line-height: 16pt;
+    text-align: justify;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.tally-punchline
+{
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #696969;    
+}
+.top-nav
+{
+    text-align:right;
+}
+
+.subtitle
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #0099FF;
+}
+
+.banner-text a:hover
+{
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #008000;
+}
+
+.Body_Head
+{
+	font-family:"Trebuchet MS";
+	font-size:20px;
+	font-weight: bold;
+	color:#052234;}
+	
+.page-bannerT {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: large;
+	color: #008000;
+}
+
+
+#sub_proj {margin-left: 5%;margin-right: 2%; font-family:"Verdana"; font-size:110%; color:#187C8C; font-weight:bolder;text-align: justify;line-height:200%;}
+#table_hp { 	font-weight: bolder ; font-size: small;color:#018151 }
+#table_li { 	font-size: small;color:#018151 }
